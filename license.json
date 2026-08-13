@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "expiresAt": "2026-12-31",
   "message": "Este canal ya no esta disponible. Contacta al administrador."
 }
